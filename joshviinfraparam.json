@@ -1,7 +1,7 @@
 [
 	{
 		"ParameterKey": "EnvironmentName",
-		"ParameterValue": "JoshviInfraVPC"
+		"ParameterValue": "MuttuInfraVPC"
 	},
 	{
 		"ParameterKey": "VpcCIDR",
